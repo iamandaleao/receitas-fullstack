@@ -1,8 +1,6 @@
-<div align="center">
-  <span style="background-color: black">
+  <p style="background-color: black"align="center">
   <img alt="Logo - Rocketseat" src=".github/logo.png" width="200px" />
-  </span>
-<div/>
+  </p>
 
 <p align="center">
 Projeto de uma página de receitas desenvolvido durante as aulas de HTML e CSS na Rocketseat.
