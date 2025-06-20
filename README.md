@@ -18,7 +18,7 @@ Projeto de uma página de receitas desenvolvido durante as aulas de HTML e CSS n
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="100%">
+  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
 </p>
 
 ## 🚀 Tecnologias
